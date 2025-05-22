@@ -1,0 +1,727 @@
+id_jugador,nombre,posicion,id_equipo
+506,A. Astralaga,Portero,20
+507,Arnau Tenas,Portero,20
+508,Iñaki Peña,Portero,20
+509,M. Ter Stegen,Portero,20
+510,A. Christensen,Defensa,20
+511,Álex Balde,Defensa,20
+512,Chadi Riad,Defensa,20
+513,Eric García,Defensa,20
+514,Jordi Alba,Defensa,20
+515,Jules Koundé,Defensa,20
+516,Marcos Alonso,Defensa,20
+517,Ronald Araujo,Defensa,20
+518,Aleix Garrido,Centrocampista,20
+519,F. De Jong,Centrocampista,20
+520,Franck Kessié,Centrocampista,20
+521,Gavi,Centrocampista,20
+522,Marc Casadó,Centrocampista,20
+523,Pablo Torre,Centrocampista,20
+524,Pau Prim,Centrocampista,20
+525,Pedri,Centrocampista,20
+526,Sergi Roberto,Centrocampista,20
+527,Sergio Busquets,Centrocampista,20
+528,Unai Hernández,Centrocampista,20
+529,Ángel Alarcón,Delantero,20
+530,Ansu Fati,Delantero,20
+531,D. Rodríguez,Delantero,20
+532,Estanis,Delantero,20
+533,Ferran Torres,Delantero,20
+534,Lamine Yamal,Delantero,20
+535,Marc Guiu,Delantero,20
+536,O. Dembélé,Delantero,20
+537,R. Lewandowski,Delantero,20
+538,Raphinha,Delantero,20
+539,Andriy Lunin,Portero,21
+540,Diego Piñeiro,Portero,21
+541,Fran González,Portero,21
+542,Lucas Cañizares,Portero,21
+543,Luis López,Portero,21
+544,Mario De Luis,Portero,21
+545,T. Courtois,Portero,21
+546,Á. Odriozola,Defensa,21
+547,A. Rüdiger,Defensa,21
+548,Dani Carvajal,Defensa,21
+549,David Alaba,Defensa,21
+550,Éder Militão,Defensa,21
+551,Ferland Mendy,Defensa,21
+552,Jesús Vallejo,Defensa,21
+553,Lucas Vázquez,Defensa,21
+554,Nacho,Defensa,21
+555,A. Tchouaméni,Centrocampista,21
+556,Carlos Dotor,Centrocampista,21
+557,Dani Ceballos,Centrocampista,21
+558,E. Camavinga,Centrocampista,21
+559,F. Valverde,Centrocampista,21
+560,Luka Modrić,Centrocampista,21
+561,Mario Martín,Centrocampista,21
+562,Nico Paz,Centrocampista,21
+563,Sergio Arribas,Centrocampista,21
+564,Toni Kroos,Centrocampista,21
+565,Álvaro,Delantero,21
+566,E. Hazard,Delantero,21
+567,K. Benzema,Delantero,21
+568,M. Asensio,Delantero,21
+569,Mariano,Delantero,21
+570,Rodrygo,Delantero,21
+571,Vinícius Júnior,Delantero,21
+572,A. Iturbe,Portero,22
+573,Antonio Gomis,Portero,22
+574,Ivo Grbić,Portero,22
+575,Jan Oblak,Portero,22
+576,Sergio Mestre,Portero,22
+577,Adrián Corral,Defensa,22
+578,Axel Witsel,Defensa,22
+579,Ilias Kostis,Defensa,22
+580,J. Giménez,Defensa,22
+581,M. Hermoso,Defensa,22
+582,Marco Moreno,Defensa,22
+583,Matt Doherty,Defensa,22
+584,Nahuel Molina,Defensa,22
+585,Reinildo,Defensa,22
+586,Sergio Díez,Defensa,22
+587,Sergio Reguilón,Defensa,22
+588,Stefan Savić,Defensa,22
+589,Aitor Gismera,Centrocampista,22
+590,Alber Moreno,Centrocampista,22
+591,G. Kondogbia,Centrocampista,22
+592,Koke,Centrocampista,22
+593,M. Llorente,Centrocampista,22
+594,Pablo Barrios,Centrocampista,22
+595,R. De Paul,Centrocampista,22
+596,Saúl,Centrocampista,22
+597,Thomas Lemar,Centrocampista,22
+598,A. Griezmann,Delantero,22
+599,Á. Morata,Delantero,22
+600,Abde Raihani,Delantero,22
+601,Ángel Correa,Delantero,22
+602,Carlos Martín,Delantero,22
+603,Diego Bri,Delantero,22
+604,Memphis,Delantero,22
+605,Salim El Jebari,Delantero,22
+606,Y. Carrasco,Delantero,22
+607,A. Zubiaurre,Portero,23
+608,Álex Remiro,Portero,23
+609,Egoitz Arana,Portero,23
+610,Unai Marrero,Portero,23
+611,A. Elustondo,Defensa,23
+612,A. Gorosabel,Defensa,23
+613,Aihen Muñoz,Defensa,23
+614,Diego Rico,Defensa,23
+615,Igor Zubeldia,Defensa,23
+616,Jon Pacheco,Defensa,23
+617,Jonathan Gómez,Defensa,23
+618,R. Le Normand,Defensa,23
+619,A. Illarramendi,Centrocampista,23
+620,Ander Guevara,Centrocampista,23
+621,B. Turrientes,Centrocampista,23
+622,Brais Méndez,Centrocampista,23
+623,David Silva,Centrocampista,23
+624,J. Magunazelaia,Centrocampista,23
+625,M. Zubimendi,Centrocampista,23
+626,Mikel Merino,Centrocampista,23
+627,Olasagasti,Centrocampista,23
+628,Pablo Marín,Centrocampista,23
+629,Urko González,Centrocampista,23
+630,A. Barrenetxea,Delantero,23
+631,A. Sørloth,Delantero,23
+632,Álex Sola,Delantero,23
+633,Ander Martín,Delantero,23
+634,C. Fernández,Delantero,23
+635,M. Merquelanz,Delantero,23
+636,M. Oyarzabal,Delantero,23
+637,Momo Cho,Delantero,23
+638,Robert Navarro,Delantero,23
+639,Take Kubo,Delantero,23
+640,Umar Sadiq,Delantero,23
+641,F. Jörgensen,Portero,24
+642,Iker Álvarez,Portero,24
+643,Pepe Reina,Portero,24
+644,A. Pedraza,Defensa,24
+645,Aïssa Mandi,Defensa,24
+646,Alberto Moreno,Defensa,24
+647,Carlos Romero,Defensa,24
+648,J. Mojica,Defensa,24
+649,Jorge Cuenca,Defensa,24
+650,Juan Foyth,Defensa,24
+651,Kiko Femenía,Defensa,24
+652,M. Mbacke,Defensa,24
+653,Pau Torres,Defensa,24
+654,Raúl Albiol,Defensa,24
+655,Sergio Carreira,Defensa,24
+656,A. Del Moral,Centrocampista,24
+657,Álex Baena,Centrocampista,24
+658,Carlo Adriano,Centrocampista,24
+659,Dani Parejo,Centrocampista,24
+660,É. Capoue,Centrocampista,24
+661,F. Coquelin,Centrocampista,24
+662,G. Lo Celso,Centrocampista,24
+663,Manu Trigueros,Centrocampista,24
+664,Ramón Terrats,Centrocampista,24
+665,Diego Collado,Delantero,24
+666,Fer Niño,Delantero,24
+667,Gerard Moreno,Delantero,24
+668,H. Hassan,Delantero,24
+669,Jorge Pascual,Delantero,24
+670,Morales,Delantero,24
+671,N. Jackson,Delantero,24
+672,S. Chukwueze,Delantero,24
+673,Yéremy Pino,Delantero,24
+674,Claudio Bravo,Portero,25
+675,Dani Martín,Portero,25
+676,Fran Vieites,Portero,25
+677,Rui Silva,Portero,25
+678,Abner Vinícius,Defensa,25
+679,Edgar,Defensa,25
+680,Félix Garreta,Defensa,25
+681,Fran Delgado,Defensa,25
+682,G. Pezzella,Defensa,25
+683,J. Miranda,Defensa,25
+684,Luiz Felipe,Defensa,25
+685,Martín Montoya,Defensa,25
+686,R. Visus,Defensa,25
+687,Víctor Ruiz,Defensa,25
+688,Y. Sabaly,Defensa,25
+689,A. Guardado,Centrocampista,25
+690,Guido Rodríguez,Centrocampista,25
+691,Nabil Fekir,Centrocampista,25
+692,Paul,Centrocampista,25
+693,Rodri,Centrocampista,25
+694,Sergio Canales,Centrocampista,25
+695,W. Carvalho,Centrocampista,25
+696,Aitor Ruibal,Delantero,25
+697,Ayoze,Delantero,25
+698,Borja Iglesias,Delantero,25
+699,Joaquín,Delantero,25
+700,José Lara,Delantero,25
+701,Juan Cruz,Delantero,25
+702,Juanmi,Delantero,25
+703,Luiz Henrique,Delantero,25
+704,Willian José,Delantero,25
+705,Aitor Fernández,Portero,26
+706,Darío Ramos,Portero,26
+707,Pablo Valencia,Portero,26
+708,Sergio Herrera,Portero,26
+709,Yoel Ramírez,Portero,26
+710,Aridane,Defensa,26
+711,David García,Defensa,26
+712,Diego Moreno,Defensa,26
+713,J. Herrando,Defensa,26
+714,Juan Cruz,Defensa,26
+715,Manu Sánchez,Defensa,26
+716,Nacho Vidal,Defensa,26
+717,Rubén Peña,Defensa,26
+718,Unai García,Defensa,26
+719,Aimar Oroz,Centrocampista,26
+720,D. Brašanac,Centrocampista,26
+721,Iker Muñoz,Centrocampista,26
+722,J. Moncayola,Centrocampista,26
+723,Lucas Torró,Centrocampista,26
+724,Pablo Ibáñez,Centrocampista,26
+725,A. Budimir,Delantero,26
+726,Chimy Ávila,Delantero,26
+727,Ez Abde,Delantero,26
+728,Iker Benito,Delantero,26
+729,Kike Barja,Delantero,26
+730,Kike García,Delantero,26
+731,Moi Gómez,Delantero,26
+732,Rubén García,Delantero,26
+733,Ander Iru,Portero,27
+734,J. Agirrezabala,Portero,27
+735,Unai Simón,Portero,27
+736,Aitor Paredes,Defensa,27
+737,Ander Capa,Defensa,27
+738,Dani Vivian,Defensa,27
+739,Iñigo Lekue,Defensa,27
+740,Íñigo Martínez,Defensa,27
+741,M. Balenziaga,Defensa,27
+742,O. De Marcos,Defensa,27
+743,Yeray,Defensa,27
+744,Yuri,Defensa,27
+745,Ander Herrera,Centrocampista,27
+746,Dani García,Centrocampista,27
+747,Iker Muniain,Centrocampista,27
+748,Junior Bita,Centrocampista,27
+749,Mikel Vesga,Centrocampista,27
+750,Oier Zarraga,Centrocampista,27
+751,Oihan Sancet,Centrocampista,27
+752,Unai Gómez,Centrocampista,27
+753,Unai Vencedor,Centrocampista,27
+754,Adu Ares,Delantero,27
+755,Álex Berenguer,Delantero,27
+756,G. Guruzeta,Delantero,27
+757,I. Williams,Delantero,27
+758,Jon Morcillo,Delantero,27
+759,Nico Williams,Delantero,27
+760,Raúl García,Delantero,27
+761,Dominik Greif,Portero,28
+762,Leo Román,Portero,28
+763,P. Rajković,Portero,28
+764,Pere Joan,Portero,28
+765,A. Raíllo,Defensa,28
+766,B. Garay,Defensa,28
+767,Copete,Defensa,28
+768,D. Hadžikadunić,Defensa,28
+769,G. Gonzalez,Defensa,28
+770,Jaume Costa,Defensa,28
+771,Josep Gayá,Defensa,28
+772,L. Augustinsson,Defensa,28
+773,M. Fernández,Defensa,28
+774,M. Nastasić,Defensa,28
+775,Martin Valjent,Defensa,28
+776,Miguelito,Defensa,28
+777,Pablo Maffeo,Defensa,28
+778,Antonio Sánchez,Centrocampista,28
+779,C. Grenier,Centrocampista,28
+780,Dani Rodríguez,Centrocampista,28
+781,I. Ruiz De Galarreta,Centrocampista,28
+782,Iddrisu Baba,Centrocampista,28
+783,Kang-In Lee,Centrocampista,28
+784,Manu Morlanes,Centrocampista,28
+785,Miquel Llabrés,Centrocampista,28
+786,Rubén Quintanilla,Centrocampista,28
+787,Abdón Prats,Delantero,28
+788,Amath Ndiaye,Delantero,28
+789,Ángel,Delantero,28
+790,T. Kadewere,Delantero,28
+791,Vedat Muriqi,Delantero,28
+792,Juan Carlos,Portero,29
+793,Lluc Matas,Portero,29
+794,P. Gazzaniga,Portero,29
+795,Toni Fuidias,Portero,29
+796,A. Callens,Defensa,29
+797,Arnau Martínez,Defensa,29
+798,Bernardo,Defensa,29
+799,Biel Farrés,Defensa,29
+800,David López,Defensa,29
+801,Javi Hernández,Defensa,29
+802,Juanpe,Defensa,29
+803,Miguel Gutiérrez,Defensa,29
+804,Santi Bueno,Defensa,29
+805,Yan Couto,Defensa,29
+806,Aleix García,Centrocampista,29
+807,Borja García,Centrocampista,29
+808,I. Kébé,Centrocampista,29
+809,Iván Martín,Centrocampista,29
+810,Oriol Romeu,Centrocampista,29
+811,Reinier,Centrocampista,29
+812,Ricard Artero,Centrocampista,29
+813,Y. Herrera,Centrocampista,29
+814,C. Stuani,Delantero,29
+815,J. Roca,Delantero,29
+816,R. Riquelme,Delantero,29
+817,Taty Castellanos,Delantero,29
+818,Toni Villa,Delantero,29
+819,V. Tsygankov,Delantero,29
+820,Valery,Delantero,29
+821,Diego López,Portero,30
+822,Miguel Morro,Portero,30
+823,S. Dimitrievski,Portero,30
+824,A. Catena,Defensa,30
+825,Abdul Mumin,Defensa,30
+826,E. Saveljich,Defensa,30
+827,Florian Lejeune,Defensa,30
+828,Fran García,Defensa,30
+829,Iván Balliu,Defensa,30
+830,M. Hernández,Defensa,30
+831,Mario Suárez,Defensa,30
+832,Pep Chavarría,Defensa,30
+833,Diego Méndez,Centrocampista,30
+834,José Ángel Pozo,Centrocampista,30
+835,Óscar Trejo,Centrocampista,30
+836,Óscar Valentín,Centrocampista,30
+837,Pablo Muñoz,Centrocampista,30
+838,Pathé Ciss,Centrocampista,30
+839,Santi Comesaña,Centrocampista,30
+840,Unai López,Centrocampista,30
+841,Álvaro García,Delantero,30
+842,Andrés Martín,Delantero,30
+843,Isi Palazón,Delantero,30
+844,R. Falcao,Delantero,30
+845,Raúl De Tomás,Delantero,30
+846,Salvi Sánchez,Delantero,30
+847,Sergio Camello,Delantero,30
+848,Alberto Flores,Portero,31
+849,Bono,Portero,31
+850,M. Dmitrović,Portero,31
+851,M. Herzig,Portero,31
+852,Matías Árbol,Portero,31
+853,Alex Telles,Defensa,31
+854,Diego Hormigo,Defensa,31
+855,G. Montiel,Defensa,31
+856,Jesús Navas,Defensa,31
+857,Karim Rekik,Defensa,31
+858,Loïc Badé,Defensa,31
+859,Marcão,Defensa,31
+860,Marcos Acuña,Defensa,31
+861,N. Gudelj,Defensa,31
+862,T. Nianzou,Defensa,31
+863,Carlos Álvarez,Centrocampista,31
+864,Fernando,Centrocampista,31
+865,Ivan Rakitić,Centrocampista,31
+866,Joan Jordán,Centrocampista,31
+867,Lulo Dasilva,Centrocampista,31
+868,Manu Bueno,Centrocampista,31
+869,Nacho Quintana,Centrocampista,31
+870,Óliver Torres,Centrocampista,31
+871,Pape Gueye,Centrocampista,31
+872,Xavi Sintes,Centrocampista,31
+873,Bryan Gil,Delantero,31
+874,Erik Lamela,Delantero,31
+875,Lucas Ocampos,Delantero,31
+876,Papu Gómez,Delantero,31
+877,Rafa Mir,Delantero,31
+878,Suso,Delantero,31
+879,Tecatito,Delantero,31
+880,Y. En-Nesyri,Delantero,31
+881,A. Marchesín,Portero,32
+882,Christian Joel,Portero,32
+883,Coke Carrillo,Portero,32
+884,Iván Villar,Portero,32
+885,Ruly,Portero,32
+886,C. Domínguez,Defensa,32
+887,F. Medrano,Defensa,32
+888,Hugo Mallo,Defensa,32
+889,J. Domínguez,Defensa,32
+890,Javi Galán,Defensa,32
+891,Joseph Aidoo,Defensa,32
+892,Kevin Vázquez,Defensa,32
+893,Ó. Mingueza,Defensa,32
+894,Sergio Barcia,Defensa,32
+895,Tincho,Defensa,32
+896,Unai Núñez,Defensa,32
+897,Fran Beltrán,Centrocampista,32
+898,Gabri Veiga,Centrocampista,32
+899,Hugo Sotelo,Centrocampista,32
+900,L. De La Torre,Centrocampista,32
+901,Óscar Rodríguez,Centrocampista,32
+902,Renato Tapia,Centrocampista,32
+903,W. Swedberg,Centrocampista,32
+904,A. Solari,Delantero,32
+905,Carles Pérez,Delantero,32
+906,Fran López,Delantero,32
+907,Franco Cervi,Delantero,32
+908,G. Paciência,Delantero,32
+909,H. Seferović,Delantero,32
+910,Hugo Álvarez,Delantero,32
+911,Iago Aspas,Delantero,32
+912,J. Larsen,Delantero,32
+913,Miguel Rodríguez,Delantero,32
+914,Pablo Durán,Delantero,32
+915,Conan Ledesma,Portero,33
+916,David Gil,Portero,33
+917,Hernando,Portero,33
+918,Víctor Aznar,Portero,33
+919,Carlos García,Defensa,33
+920,Fali,Defensa,33
+921,Iza,Defensa,33
+922,J. Zaldua,Defensa,33
+923,Jorge Meré,Defensa,33
+924,Juan Cala,Defensa,33
+925,Luis Hernández,Defensa,33
+926,Momo,Defensa,33
+927,Pacha Espino,Defensa,33
+928,Raúl Parra,Defensa,33
+929,S. Arzamendia,Defensa,33
+930,Victor Chust,Defensa,33
+931,Á. Bastida,Centrocampista,33
+932,Álex Fernández,Centrocampista,33
+933,F. San Emeterio,Centrocampista,33
+934,G. Escalante,Centrocampista,33
+935,Jon Garrido,Centrocampista,33
+936,José Mari,Centrocampista,33
+937,Rubén Alcaraz,Centrocampista,33
+938,Youba Diarra,Centrocampista,33
+939,Á. Negredo,Delantero,33
+940,B. Ocampo,Delantero,33
+941,Choco Lozano,Delantero,33
+942,Chris Ramos,Delantero,33
+943,F. Mwepu,Delantero,33
+944,Iván Alejo,Delantero,33
+945,J. De La Rosa,Delantero,33
+946,Mamady Diarra,Delantero,33
+947,Roger Martí,Delantero,33
+948,Rubén Sobrino,Delantero,33
+949,Sergi Guardiola,Delantero,33
+950,T. Bongonda,Delantero,33
+951,David Soria,Portero,34
+952,Diego Conde,Portero,34
+953,Kiko Casilla,Portero,34
+954,V. Bellmunt,Portero,34
+955,Alex Revuelta,Defensa,34
+956,Alex Rodríguez,Defensa,34
+957,D. Djené,Defensa,34
+958,D. Duarte,Defensa,34
+959,Damián Suárez,Defensa,34
+960,F. Angileri,Defensa,34
+961,G. Álvarez,Defensa,34
+962,Gorka,Defensa,34
+963,Jordan Amavi,Defensa,34
+964,Juan Iglesias,Defensa,34
+965,Koffi,Defensa,34
+966,O. Alderete,Defensa,34
+967,P. Ramírez,Defensa,34
+968,S. Mitrović,Defensa,34
+969,A. Algobia,Centrocampista,34
+970,C. Aleñá,Centrocampista,34
+971,Gonzalo Villar,Centrocampista,34
+972,J. Patrick,Centrocampista,34
+973,Jaime Seoane,Centrocampista,34
+974,Luis Milla,Centrocampista,34
+975,M. Arambarri,Centrocampista,34
+976,N. Maksimović,Centrocampista,34
+977,Santi García,Centrocampista,34
+978,B. Mayoral,Delantero,34
+979,Enes Ünal,Delantero,34
+980,J. Mata,Delantero,34
+981,Latasa,Delantero,34
+982,Moi Parra,Delantero,34
+983,Munir,Delantero,34
+984,Portu,Delantero,34
+985,Charlie Pérez,Portero,35
+986,Cristian Rivero,Portero,35
+987,Emilio Bernad,Portero,35
+988,G. Mamardashvili,Portero,35
+989,I. Herrerín,Portero,35
+990,Jaume Doménech,Portero,35
+991,C. Mosquera,Defensa,35
+992,Cenk Özkacar,Defensa,35
+993,D. Foulquier,Defensa,35
+994,Eray Cömert,Defensa,35
+995,Gabriel Paulista,Defensa,35
+996,Jesús Vázquez,Defensa,35
+997,José Gayà,Defensa,35
+998,M. Diakhaby,Defensa,35
+999,Rubén Iranzo,Defensa,35
+1000,Thierry Correia,Defensa,35
+1001,Toni Lato,Defensa,35
+1002,André Almeida,Centrocampista,35
+1003,Hugo Guillamón,Centrocampista,35
+1004,Ilaix Moriba,Centrocampista,35
+1005,Javi Guerra,Centrocampista,35
+1006,Nico González,Centrocampista,35
+1007,Yellu Santiago,Centrocampista,35
+1008,Yunus Musah,Centrocampista,35
+1009,Alberto Marí,Delantero,35
+1010,Diego López,Delantero,35
+1011,E. Cavani,Delantero,35
+1012,Fran Pérez,Delantero,35
+1013,Hugo Duro,Delantero,35
+1014,Justin Kluivert,Delantero,35
+1015,Marcos André,Delantero,35
+1016,Mario Domínguez,Delantero,35
+1017,Samu Castillejo,Delantero,35
+1018,Samuel Lino,Delantero,35
+1019,Diego Fuoli,Portero,36
+1020,Diego Mariño,Portero,36
+1021,Fernando,Portero,36
+1022,Álex Centelles,Defensa,36
+1023,Álex Pozo,Defensa,36
+1024,Chumi,Defensa,36
+1025,H. Mendes,Defensa,36
+1026,Kaiky,Defensa,36
+1027,Rodrigo Ely,Defensa,36
+1028,Sergio Akieme,Defensa,36
+1029,Srdjan Babić,Defensa,36
+1030,Arnau Puigmal,Centrocampista,36
+1031,César De La Hoz,Centrocampista,36
+1032,F. Portillo,Centrocampista,36
+1033,G. Melero,Centrocampista,36
+1034,Íñigo Eguaras,Centrocampista,36
+1035,L. Robertone,Centrocampista,36
+1036,M. Šviderský,Centrocampista,36
+1037,Marcos Peña,Centrocampista,36
+1038,Samú Costa,Centrocampista,36
+1039,Adrián Embarba,Delantero,36
+1040,Carlos Rojas,Delantero,36
+1041,Dyego Sousa,Delantero,36
+1042,E. Touré,Delantero,36
+1043,L. Ramazani,Delantero,36
+1044,Lázaro,Delantero,36
+1045,Léo Baptistão,Delantero,36
+1046,Luis Suárez,Delantero,36
+1047,Marciano,Delantero,36
+1048,Marezi,Delantero,36
+1049,Álvaro Aceves,Portero,37
+1050,Jordi Masip,Portero,37
+1051,S. Asenjo,Portero,37
+1052,David Torres,Defensa,37
+1053,Diego Moreno,Defensa,37
+1054,Iván Fresneda,Defensa,37
+1055,J. El Yamiq,Defensa,37
+1056,Javi Sánchez,Defensa,37
+1057,Joaquín Fernández,Defensa,37
+1058,Lucas Olaza,Defensa,37
+1059,Lucas Rosa,Defensa,37
+1060,Luis Pérez,Defensa,37
+1061,S. Escudero,Defensa,37
+1062,Víctor Rofino,Defensa,37
+1063,Álvaro Aguado,Centrocampista,37
+1064,Anuar,Centrocampista,37
+1065,Kike Pérez,Centrocampista,37
+1066,Mario Maroto,Centrocampista,37
+1067,Martin Hongla,Centrocampista,37
+1068,Monchu,Centrocampista,37
+1069,Roque Mesa,Centrocampista,37
+1070,S. Amallah,Centrocampista,37
+1071,Cyle Larin,Delantero,37
+1072,Darwin Machís,Delantero,37
+1073,Gonzalo Plata,Delantero,37
+1074,Iván Cédric,Delantero,37
+1075,Iván Sánchez,Delantero,37
+1076,Kenedy,Delantero,37
+1077,M. Pozo,Delantero,37
+1078,Óscar Plano,Delantero,37
+1079,R. Arroyo,Delantero,37
+1080,Sergio León,Delantero,37
+1081,Tunde,Delantero,37
+1082,Álvaro Fernández,Portero,38
+1083,Ángel Fortuño,Portero,38
+1084,F. Pacheco,Portero,38
+1085,Joan García,Portero,38
+1086,Adrià Pedrosa,Defensa,38
+1087,Aleix Vidal,Defensa,38
+1088,Brian Oliván,Defensa,38
+1089,César Montes,Defensa,38
+1090,F. Calero,Defensa,38
+1091,Joan Puig,Defensa,38
+1092,L. Cabrera,Defensa,38
+1093,Omar El Hilali,Defensa,38
+1094,Óscar Gil,Defensa,38
+1095,R. Pierre-Gabriel,Defensa,38
+1096,Rubén Sánchez,Defensa,38
+1097,Sergi Gómez,Defensa,38
+1098,Simo,Defensa,38
+1099,D. Villahermosa,Centrocampista,38
+1100,Denis Suárez,Centrocampista,38
+1101,Edu Expósito,Centrocampista,38
+1102,José Gragera,Centrocampista,38
+1103,Keidi Bare,Centrocampista,38
+1104,Nico Melamed,Centrocampista,38
+1105,Roger,Centrocampista,38
+1106,Sergi Darder,Centrocampista,38
+1107,Vini Souza,Centrocampista,38
+1108,Dani Gómez,Delantero,38
+1109,J. Lazo,Delantero,38
+1110,Javi Puado,Delantero,38
+1111,Joselu,Delantero,38
+1112,L. Koleosho,Delantero,38
+1113,M. Braithwaite,Delantero,38
+1114,Nabil Touaizi,Delantero,38
+1115,Axel Werner,Portero,39
+1116,Édgar Badía,Portero,39
+1117,Jesús López,Portero,39
+1118,Juanpe,Portero,39
+1119,C. Clerc,Defensa,39
+1120,C. Soler,Defensa,39
+1121,Carmona,Defensa,39
+1122,Diego González,Defensa,39
+1123,E. Roco,Defensa,39
+1124,Gonzalo Verdú,Defensa,39
+1125,H. Palacios,Defensa,39
+1126,Javier Pamies,Defensa,39
+1127,John Chetauya,Defensa,39
+1128,L. Blanco,Defensa,39
+1129,Lisandro Magallan,Defensa,39
+1130,Manu Cocca,Defensa,39
+1131,P. Bigas,Defensa,39
+1132,Pol Lirola,Defensa,39
+1133,Álex Alfaro,Centrocampista,39
+1134,G. Gumbau,Centrocampista,39
+1135,Omar Mascarell,Centrocampista,39
+1136,P. Cheikh,Centrocampista,39
+1137,Randy Nteka,Centrocampista,39
+1138,Raúl Guti,Centrocampista,39
+1139,Rodrigo Mendoza,Centrocampista,39
+1140,Álex Collado,Delantero,39
+1141,E. Ponce,Delantero,39
+1142,Fidel,Delantero,39
+1143,Josan,Delantero,39
+1144,Lucas Boyé,Delantero,39
+1145,Nico Fernández,Delantero,39
+1146,Pere Milla,Delantero,39
+1147,Tete Morente,Delantero,39
+642,Juan Pérez,Portero,26
+643,Javi Martínez,Centrocampista,26
+644,Roberto Torres,Centrocampista,26
+645,T. Delaney,Centrocampista,31
+646,Carmona,Defensa,31
+647,Kike Salas,Defensa,31
+648,Iván Romero,Delantero,31
+649,M. Pjanić,Centrocampista,20
+650,P. Aubameyang,Delantero,20
+651,Memphis,Delantero,20
+652,Randy Nteka,Centrocampista,30
+653,Bebé,Delantero,30
+654,Miguel Baeza,Centrocampista,32
+655,B. Lecomte,Portero,38
+656,Adrián Embarba,Delantero,38
+657,Toni Villa,Delantero,37
+658,S. Gassama,Delantero,37
+659,G. Rulli,Portero,24
+660,P. Estupiñán,Defensa,24
+661,Manu Morlanes,Centrocampista,24
+662,Alberto Perea,Delantero,33
+663,Lucas Pérez,Delantero,33
+664,Tomás Alarcón,Centrocampista,33
+665,Awer Mabil,Delantero,33
+666,Alexander Isak,Delantero,23
+667,J. Karrikaburu,Delantero,23
+668,Umar Sadiq,Delantero,36
+669,J. Lazo,Delantero,36
+670,Arvin Appiah,Delantero,36
+671,Curro Sánchez,Delantero,36
+672,Casemiro,Centrocampista,21
+673,Carlos Soler,Centrocampista,35
+674,Uroš Račić,Centrocampista,35
+675,Koba Lein,Centrocampista,35
+676,Maxi Gómez,Delantero,35
+677,Manu Vallejo,Delantero,35
+678,Ramón Terrats,Centrocampista,29
+679,Samu Sáiz,Centrocampista,29
+680,Manu Vallejo,Delantero,29
+681,Álex Sala,Centrocampista,29
+682,Pau Víctor,Delantero,29
+683,Óscar Ureña,Delantero,29
+684,Asier Villalibre,Delantero,27
+685,Peru Nolaskoain,Centrocampista,27
+686,R. Battaglia,Centrocampista,28
+687,B. Cufré,Defensa,28
+688,Franco Russo,Defensa,28
+689,Lago Junior,Delantero,28
+690,Álex Moreno,Defensa,25
+691,Róber González,Centrocampista,25
+692,Loren Morón,Delantero,25
+693,J. Mojica,Defensa,39
+694,Roger Martí,Delantero,39
+695,João Félix,Delantero,22
+696,Renan Lodi,Defensa,22
+697,Matheus Cunha,Delantero,22
+698,Munir,Delantero,31
+699,Sergi Guardiola,Delantero,37
+700,Mickael Malsa,Centrocampista,37
+701,Antonio Blanco,Centrocampista,33
+702,Álvaro Giménez,Delantero,33
+703,Javi Llabrés,Delantero,28
+704,G. Piqué,Defensa,20
+705,Felipe,Defensa,22
+706,J. Pastore,Centrocampista,39
+707,Domingos Quina,Centrocampista,39
+708,F. Pacheco,Portero,36
+709,Isco,Centrocampista,31
+710,K. Dolberg,Delantero,31
+711,F. Fernández,Defensa,39
+712,Z. Feddal,Defensa,37
+713,S. Weissman,Delantero,37
+714,Juanjo Narváez,Delantero,37
+715,Gui Guedes,Centrocampista,36
+716,Pol Lozano,Centrocampista,38
+717,Adnan Januzaj,Delantero,31
+718,Héctor Bellerín,Defensa,20
+719,A. Danjuma,Delantero,24
+720,Tiago Ribeiro,Centrocampista,35
+721,Lautaro,Defensa,33
+722,Pedro Ortiz,Centrocampista,31
+723,Dawda,Delantero,29
+724,Diego Alves,Portero,32
+725,Luis Montiel,Centrocampista,28
