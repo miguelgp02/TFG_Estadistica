@@ -42,7 +42,7 @@ cor(df$resultado_local, df$resultado_visitante)
 
 # Histograma goles equipo local
 ggplot(df, aes(x = resultado_local)) +
-  geom_histogram(binwidth = 1, fill = "steelblue", color = "black") +
+  geom_bar(binwidth = 1, fill = "steelblue", color = "black") +
   scale_x_continuous(breaks = 0:10, limits = c(0, 7)) +
   labs(title = "Distribución de goles del equipo local",
        x = "Goles", y = "Frecuencia") +
@@ -50,7 +50,7 @@ ggplot(df, aes(x = resultado_local)) +
 
 # Histograma goles equipo visitante
 ggplot(df, aes(x = resultado_visitante)) +
-  geom_histogram(binwidth = 1, fill = "tomato", color = "black") +
+  geom_bar(binwidth = 1, fill = "tomato", color = "black") +
   scale_x_continuous(breaks = 0:10, limits = c(0, 7)) +
   labs(title = "Distribución de goles del equipo visitante",
        x = "Goles", y = "Frecuencia") +
